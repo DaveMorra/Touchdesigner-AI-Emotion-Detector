@@ -47,7 +47,7 @@ The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand 
 
 1. Open the `FinalDHProject.toe` project.
 
-2. Within the the TouchDesigner project, ensure that the ensure that the plugin interface with MediaPipe is correctly set up. After the project has had some time to load, make sure that the `MediaPipe` function doesent display an errors.
+2. Within the the TouchDesigner project, ensure that the ensure that the plugin interface with MediaPipe is correctly set up. After the project has had some time to load, make sure that the `MediaPipe` function doesent display any errors.
 
 3. Ensure that the `Window` function displays an animation of a vitrual cat.
 
