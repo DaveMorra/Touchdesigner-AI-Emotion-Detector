@@ -5,8 +5,7 @@
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
+- [Run the System](#run-the-system)
 - [License](#license)
 
 ## Overview
@@ -48,5 +47,22 @@ The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand 
 
 ### Step 3: Make Sure the System Works
 
-1. Open the `release.toe`
+1. Open the `FinalDHProject.toe` project.
+
+2. Within the the TouchDesigner project, ensure that the ensure that the plugin interface with MediaPipe is correctly set up. After the project has had some time to load, make sure that the `MediaPipe` function doesent display an errors.
+
+3. Ensure that the `Window` function displays an animation of a vitrual cat.
+
+### Step 5: Run the System
+Once everything is set up, you can start the system by running the project in TouchDesigner. Follow these steps:
+
+1. Open your TouchDesigner project `FinalDHProject.toe`.
+2. Ensure that the webcam is connected and active.
+3. Make sure that the audio output device is working properly and is playing music.
+4. Within the project, open the `Window` function and enable `Open as Perform Window` or `Open as Seperate Window`.
+6. The system should automatically play music while detect the user's body language, facial expressions, and hand gestures, and the displayed image should change accordingly
+
+### License
+ToDo: Do later
+
 
