@@ -46,3 +46,7 @@ The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand 
    
 4. Extract the contents of the `release.zip` into the appropriate directory within your project. Typically, you should place it in the `TouchDesigner/plugins` directory or in a folder where your TouchDesigner project resides.
 
+### Step 3: Make Sure the System Works
+
+1. Open the `release.toe`
+
