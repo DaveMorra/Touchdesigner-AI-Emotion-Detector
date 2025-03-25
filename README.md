@@ -32,7 +32,7 @@ To run this system, you'll need the following hardware:
 ## Setup
 
 ### Step 1: Clone the Repository
-First, clone this repository to your local machine has the following file [Touchdesigner-AI-Emotion-Detector.zip](https://github.com/DaveMorra/Touchdesigner-AI-Emotion-Detector/tree/main).
+First, clone or download this repository to your local machine [Touchdesigner-AI-Emotion-Detector.zip](https://github.com/DaveMorra/Touchdesigner-AI-Emotion-Detector/tree/main).
 
 ### Step 2: Download the MediaPipe TouchDesigner Plugin
 The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand gesture tracking. Follow these steps:
