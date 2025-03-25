@@ -30,7 +30,19 @@ To run this system, you'll need the following hardware:
   
 2. **Audio Output**: Depending on the environmental control features you've set up in TouchDesigner, you may need audio output devices (such as speakers or headphones) for sound adjustments or audio-responsive visualizations.
 
-3. **Computer with Adequate Processing Power**: The system requires a computer running Windows, Linux, or macOS with a modern processor (e.g., Intel i5/Ryzen 5 or better). For optimal performance, make sure your machine has at least 8 GB of RAM and a dedicated graphics card (e.g., NVIDIA GTX 1050 or better). Real-time processing of body language, facial expressions, and hand gestures can be demanding on your system, so a machine with decent processing power will ensure smooth operation.
+3. **Computer with Adequate Processing Power**: The system requires a computer running Windows, Linux, or macOS with a modern processor for optimal performance. No graphics card is required.
 
+## Setup
 
+### Step 1: Clone the Repository
+First, clone this repository to your local machine has the following file [Touchdesigner-AI-Emotion-Detector.zip]().
+
+### Step 2: Download the MediaPipe TouchDesigner Plugin
+The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand gesture tracking. Follow these steps:
+
+1. Visit the [MediaPipe TouchDesigner Plugin](https://github.com/torinmb/mediapipe-touchdesigner?tab=readme-ov-file) repository.
+
+2. Download the latest `release.zip` from the repository.
+   
+4. Extract the contents of the `release.zip` into the appropriate directory within your project. Typically, you should place it in the `TouchDesigner/plugins` directory or in a folder where your TouchDesigner project resides.
 
