@@ -39,9 +39,9 @@ The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand 
 
 1. Visit the [MediaPipe TouchDesigner Plugin](https://github.com/torinmb/mediapipe-touchdesigner?tab=readme-ov-file) repository.
 
-2. Download the latest `release.zip` from the repository.
+2. Download the latest `release.zip` from the repository (MAKE SURE IT'S `release.zip` AND NOT `mediapipe-touchdesigner-main.zip`).
    
-4. Extract the contents of the `release.zip` into the appropriate directory within your project. Typically, you should place it in the `TouchDesigner/plugins` directory or in a folder where your TouchDesigner project resides.
+4. Extract the contents of the `release.zip` into the the root directory (`Touchdesigner-AI-Emotion-Detector`) of this project. Otherwise the plugin wont work correcly with this project.
 
 ### Step 3: Make Sure the System Works
 
