@@ -18,14 +18,12 @@ Before running this project, ensure that you meet the following requirements:
 
 ### Software Dependencies
 1. **TouchDesigner**: A node-based visual programming language used for interactive and immersive media creation.
-   - Download here: https://derivative.ca/
 2. **MediaPipe TouchDesigner Plugin**: This plugin is used to interface with MediaPipe for gesture, body language, and facial expression recognition.
-   - Download the latest release from the [MediaPipe TouchDesigner GitHub](https://github.com/torinmb/mediapipe-touchdesigner?tab=readme-ov-file).
   
 ### Hardware Requirements
 To run this system, you'll need the following hardware:
 
-1. **Webcam**: A functional webcam or camera system is required to capture the user's body movements, hand gestures, and facial expressions in real-time. Ensure that your camera has sufficient resolution and frame rate for smooth tracking (1080p or higher is recommended).
+1. **Webcam**: A functional webcam or camera system is required to capture the user's body movements, hand gestures, and facial expressions in real-time.
   
 2. **Audio Output**: Depending on the environmental control features you've set up in TouchDesigner, you may need audio output devices (such as speakers or headphones) for sound adjustments or audio-responsive visualizations.
 
