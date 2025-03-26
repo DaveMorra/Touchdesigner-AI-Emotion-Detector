@@ -6,7 +6,7 @@
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Run the System](#run-the-system)
-- [License](#license)
+- [Technical Overview](#technical-overview)
 
 ## Overview
 
@@ -60,7 +60,6 @@ Once everything is set up, you can start the system by running the project in To
 4. Within the project, open the `Window` function and enable `Open as Perform Window` or `Open as Seperate Window`.
 6. The system should automatically play music while detect the user's body language, facial expressions, and hand gestures, and the displayed image should change accordingly
 
-### License
-ToDo: Do later
-
+## Technical Overview
+Todo
 
