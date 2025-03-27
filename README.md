@@ -51,7 +51,7 @@ The system requires the MediaPipe TouchDesigner Plugin for body, face, and hand 
 
 3. Ensure that the `Window` function displays an animation of a vitrual cat.
 
-### Step 5: Run the System
+### Step 4: Run the System
 Once everything is set up, you can start the system by running the project in TouchDesigner. Follow these steps:
 
 1. Open your TouchDesigner project `FinalDHProject.toe`.
