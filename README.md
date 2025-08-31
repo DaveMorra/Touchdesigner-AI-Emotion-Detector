@@ -6,7 +6,6 @@
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Run the System](#run-the-system)
-- [Technical Overview](#technical-overview)
 
 ## Overview
 
@@ -59,7 +58,4 @@ Once everything is set up, you can start the system by running the project in To
 3. Make sure that the audio output device is working properly and is playing music.
 4. Within the project, open the `Window` function and enable `Open as Perform Window` or `Open as Seperate Window`.
 6. The system should automatically play music while detect the user's body language, facial expressions, and hand gestures, and the displayed image should change accordingly
-
-## Technical Overview
-Todo
 
